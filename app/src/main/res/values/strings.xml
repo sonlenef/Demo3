@@ -9,4 +9,9 @@
     <string name="back">Back</string>
     <string name="send_email">Send Email</string>
     <string name="add_image">Add Image</string>
+    <string name="admin">admin</string>
+    <string name="leson">leson</string>
+    <string name="save_image">Save Image</string>
+    <string name="my_email">lesonitdn98@gmail.com</string>
+    <string name="my_age">21</string>
 </resources>
